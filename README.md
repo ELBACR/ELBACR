@@ -1,3 +1,4 @@
+<img src="portada.png">
 - 👋 Hola soy @ELBACR
 - 👀 Estoy interesada en redes sociales y comunicación
 -  I’m currently learning ...
